@@ -1,0 +1,613 @@
+{
+	"basics": {
+		"name": "Rocky Camacho",
+		"label": "Android Developer",
+		"picture": "",
+		"email": "rocky.camacho@flightdigitalmedia.com",
+		"phone": "+639052111443"
+	},
+	"volunteer": [],
+	"education": [{
+		"institution": "Ateneo de Manila University",
+		"area": "Management Information Systems",
+		"studyType": "Bachelor",
+		"startDate": "2004-06-14",
+		"endDate": "2008-03-28",
+		"gpa": "",
+		"courses": []
+	}],
+	"awards": [{
+			"title": "2006 ACM International Collegiate Programming Competition Asia Regional Contest – Manila",
+			"date": "2006-10-26",
+			"awarder": "ACM International Collegiate Programming Competition Asia Region",
+			"summary": "https://icpc.baylor.edu/regionals/finder/manila-2006/standings"
+		},
+		{
+			"title": "Time's Person of the Year 2006",
+			"date": "2006-12-25",
+			"awarder": "Time magazine",
+			"summary": "https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)"
+		}
+	],
+	"publications": [],
+	"languages": [{
+			"language": "English",
+			"fluency": "Proficient"
+		},
+		{
+			"language": "Filipino",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [{
+			"name": "Games",
+			"keywords": ["Boardgames",
+				"PC Games"
+			]
+		},
+		{
+			"name": "Programming",
+			"keywords": ["Genetic Programming",
+				"IoT"
+			]
+		}
+	],
+	"references": [],
+	"skills": [{
+			"category": "Android Development",
+			"technologies": [{
+					"name": "Java",
+					"number_of_years": 10
+				}, {
+					"name": "Android SDK",
+					"number_of_years": 7
+				},
+				{
+					"name": "App Deep Linking",
+					"number_of_years": 2
+				}
+			]
+		},
+		{
+			"category": "Android Testing",
+			"technologies": [{
+					"name": "JUnit",
+					"number_of_years": 8
+				},
+				{
+					"name": "Robolectric",
+					"number_of_years": 2
+				},
+				{
+					"name": "Espresso",
+					"number_of_years": 3
+				},
+				{
+					"name": "UI Automator",
+					"number_of_years": 1
+				},
+				{
+					"name": "Page Object Pattern",
+					"number_of_years": 1
+				}
+			]
+		},
+		{
+			"category": "Developement Tools",
+			"technologies": [{
+					"name": "Android Studio",
+					"number_of_years": 3
+				},
+				{
+					"name": "JIRA",
+					"number_of_years": 4
+				},
+				{
+					"name": "Confluence",
+					"number_of_years": 3
+				},
+				{
+					"name": "Jenkins",
+					"number_of_years": 4
+				}
+			]
+		},
+		{
+			"category": "Basic Fundamentals",
+			"technologies": [{
+					"name": "Data Structures",
+					"number_of_years": 5
+				},
+				{
+					"name": "Algorithms",
+					"number_of_years": 5
+				},
+				{
+					"name": "Design Patterns",
+					"number_of_years": 5
+				},
+				{
+					"name": "Reactive Extensions",
+					"number_of_years": 3
+				}
+			]
+		},
+		{
+			"category": "Web Development",
+			"technologies": [{
+					"name": "HTML",
+					"number_of_years": 5
+				},
+				{
+					"name": "PHP",
+					"number_of_years": 7
+				},
+				{
+					"name": "CSS",
+					"number_of_years": 3
+				},
+				{
+					"name": "Javascript",
+					"number_of_years": 3
+				},
+				{
+					"name": "MySQL",
+					"number_of_years": 6
+				},
+				{
+					"name": "REST",
+					"number_of_years": 9
+				}
+			]
+		},
+		{
+			"category": "Version Control",
+			"technologies": [{
+					"name": "SVN",
+					"number_of_years": 5
+				}, {
+					"name": "Git",
+					"number_of_years": 3
+				},
+				{
+					"name": "Mercurial",
+					"number_of_years": 3
+				}
+			]
+		},
+		{
+			"category": "Operating System",
+			"technologies": [{
+				"name": "Windows",
+				"number_of_years": 10
+			}, {
+				"name": "Linux",
+				"number_of_years": 1
+			}, {
+				"name": "OSX",
+				"number_of_years": 1
+			}]
+		}
+	],
+	"work": [{
+			"company": "Flight Digital Media",
+			"position": "Android Developer",
+			"website": "http://flightdigitalmedia.com",
+			"startDate": "2016-07-15",
+			"endDate": "Present",
+			"summary": "Conducted Android training sessions\nSet development standards\nSpearheaded use of unit testing, ui testing, usage of cloud continuous integration",
+			"highlights": ["Conducted Android training sessions", "Set development standards", "Spearheaded use of unit testing, ui testing, usage of cloud continuous integration"],
+			"projects": [{
+				"name": "Happy Shopmate",
+				"highlights": ["Architectured redesign",
+					"Implemented offline",
+					"Implemented and maintained various user features",
+					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, Priority Queue, JUnit"
+				],
+				"description": "Architectured redesign\nImplemented offline\nImplemented and maintained various user features",
+				"role": "Lead Developer",
+				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, Priority Queue, JUnit"
+			}, {
+				"name": "Power Team",
+				"highlights": ["Architectured redesign",
+					"Implemented and maintained various features",
+					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
+				],
+				"description": "Architectured redesign\nImplemented offline\nImplemented and maintained various features",
+				"role": "Solo Developer",
+				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
+			}, {
+				"name": "Zukii Backend",
+				"highlights": ["Architectured API",
+					"Implemented API tests",
+					"Technologies: PHP, Laravel, JWT, PHPUnit"
+				],
+				"description": "Architectured API\nImplemented API tests",
+				"role": "Original Developer",
+				"technologies": "PHP, Laravel, JWT, PHPUnit"
+			}, {
+				"name": "Zukii Consumer",
+				"highlights": ["Designed and implemented initial architecture",
+					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
+				],
+				"description": "Implemented and maintained various features",
+				"role": "Developer",
+				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
+			}, {
+				"name": "Zukii Merchant",
+				"highlights": ["Designed and implemented architecture",
+					"Performed code reviews",
+					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
+				],
+				"description": "Designed and implemented architecture\nPerformed code reviews",
+				"role": "Lead Developer",
+				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
+			}, {
+				"name": "Zukii Rider",
+				"highlights": ["Designed and implemented architecture",
+					"Performed code reviews",
+					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
+				],
+				"description": "Designed and implemented architecture\nPerformed code reviews",
+				"role": "Lead Developer",
+				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
+			}]
+		}, {
+			"company": "Coapperative",
+			"position": "Android Developer",
+			"website": "http://thecoapperative.com",
+			"startDate": "2014-09-24",
+			"endDate": "2016-06-14",
+			"summary": "Developed and maintained various Android applications ranging from digital newspapers, airline and hotel reservation applicatinos, and champagne ordering applications\nPerformed code reviews of 3rd-party Android projects",
+			"highlights": ["Developed and maintained various Android applications ranging from digital newspapers, airline and hotel reservation applicatinos, and champagne ordering applications",
+				"Performed code reviews of 3rd-party Android projects"
+			],
+			"projects": [{
+					"name": "City Marque Kiosk",
+					"highlights": ["Developed both Android and PHP server components",
+						"Implemented tests for most business logic",
+						"Implemented tests for ui",
+						"Implemented a build flavor that connects to a mock rest server",
+						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, Espresso, MockingJay Server, Laravel, PHPUnit, Stripe"
+					],
+					"description": "Developed both Android and PHP server components\nImplemented tests for most business logic\nImplemented tests for ui\nImplemented a build flavor that connects to a mock rest server",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, Espresso, MockingJay Server, Laravel, PHPUnit, Stripe"
+				},
+				{
+					"name": "Acts of Random Kindness",
+					"highlights": ["Implemented Google App Invites for sharing the application directly to contacts and friends",
+						"Implemented tests for most business logic",
+						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, MVP, Google App Invites"
+					],
+					"description": "Implemented Google App Invites for sharing the application directly to contacts and friends\nImplemented tests for most business logic",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, MVP, Google App Invites"
+				},
+				{
+					"name": "Push for Champagne",
+					"highlights": ["Implemented tests for most business logic",
+						"Implemented App Deep Linking for Change Password and Screen Redirects via GCM",
+						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, AltBeacon, Facebook Rebound, Robolectric, Stripe, GCM"
+					],
+					"description": "Implemented tests for most business logic\nImplemented App Deep Linking for Change Password and Screen Redirects via GCM",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, AltBeacon, Facebook Rebound, Robolectric, Stripe, GCM"
+				},
+				{
+					"name": "ReadyTask",
+					"highlights": ["Developed both Android and PHP server components",
+						"https://play.google.com/store/apps/details?id=com.freshmethodit.readytask",
+						"Technologies: RxJava, RxAndroid, Retrofit, Dagger, CouchBase Lite, Laravel, MySQL"
+					],
+					"description": "Developed both Android and PHP server components",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Retrofit, Dagger, CouchBase Lite, Laravel, MySQL"
+				},
+				{
+					"name": "Jet2 Holidays",
+					"highlights": ["Added additional functionality and analytics",
+						"https://play.google.com/store/apps/details?id=com.jet2.travelapp"
+					],
+					"description": "Added additional functionality and analytics\nhttps://play.google.com/store/apps/details?id=com.jet2.travelapp",
+					"role": "Solo Developer",
+					"technologies": "Android SDK"
+				},
+				{
+					"name": "Sortr Server",
+					"highlights": ["Implemented classifiers",
+						"Technologies: ElasticSearch, Square Tape, MySQL, ABBYY OCR"
+					],
+					"description": "Implemented classifiers",
+					"role": "Solo Developer",
+					"technologies": "ElasticSearch, Square Tape, MySQL, ABBYY OCR"
+				},
+				{
+					"name": "Kupon2Go",
+					"highlights": ["Made builds configurable such that data managers can be set to return mock data",
+						"https://play.google.com/store/apps/details?id=com.coapperative.kupon2go.app",
+						"Technologies: Square Tape, RxJava, Zxing Barcode Reader, Retrofit, Dagger, GCM"
+					],
+					"description": "Made builds configurable such that data managers can be set to return mock data\nhttps://play.google.com/store/apps/details?id=com.coapperative.kupon2go.app",
+					"role": "Solo Developer",
+					"technologies": "Square Tape, RxJava, Zxing Barcode Reader, Retrofit, Dagger, GCM"
+				},
+				{
+					"name": "The Times E-Reader",
+					"highlights": ["Download queueing and resume functionality",
+						"Technologies: Square Tape, RxJava, RadaeePDF, Retrofit, DownloadManager, Dagger"
+					],
+					"description": "Pdf Viewer\nDownload queueing and resume functionality",
+					"role": "Solo Developer",
+					"technologies": "Square Tape, RxJava, RadaeePDF, Retrofit, DownloadManager, Dagger"
+				}
+			]
+		},
+		{
+			"company": "Freelance",
+			"position": "Android Developer",
+			"website": "",
+			"startDate": "2014-04-06",
+			"endDate": "2016-01-31",
+			"summary": "Single-handledly developed and maintained a freely distributed application\nPerformed code reviews",
+			"highlights": ["Single-handledly developed and maintained a freely distributed application",
+				"Performed code reviews"
+			],
+			"projects": [{
+					"name": "My Money Changer",
+					"highlights": ["https://play.google.com/store/apps/details?id=com.monychanger.app",
+						"Technologies: RxJava, RxAndroid, Dagger, Retrofit"
+					],
+					"description": "Allowed users to view nearby moneychangers and their rates\nhttps://play.google.com/store/apps/details?id=com.monychanger.app",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Dagger, Retrofit"
+				},
+				{
+					"name": "Usbong Builder",
+					"highlights": ["https://github.com/rockycamacho/usbong-builder",
+						"Technologies: RxJava, RxAndroid, Dagger"
+					],
+					"description": "Allowed students, non-developers to create their own stories, apps using Usbong\nhttps://github.com/rockycamacho/usbong-builder",
+					"role": "Solo Developer",
+					"technologies": "RxJava, RxAndroid, Dagger"
+				}
+			]
+		},
+		{
+			"company": "Samsung Electronics Philippines Corporation",
+			"position": "Project Lead / Team Lead",
+			"website": "http://www.samsung.com/ph/home/",
+			"startDate": "2012-10-08",
+			"endDate": "2014-04-03",
+			"summary": "Headed a team of 10 working on 2 Android projects\nTaught Design Patterns, Unit Testing, Android, and Software Training Course\nSpear-headed the use of continuous integration server, project management tool, build scripts, code reviews, developer meetings in teams",
+			"highlights": ["Headed a team of 10 working on 2 Android projects",
+				"Taught Design Patterns, Unit Testing, Android, and Software Training Course",
+				"Spear-headed the use of continuous integration server, project management tool, build scripts, code reviews, developer meetings in teams"
+			],
+			"projects": [{
+					"name": "Other Various Projects (Unreleased to the public)",
+					"highlights": ["Performed maintenance and added new features",
+						"Technologies: Android SDK, C#, Protobuf, Samsung Chord, Java"
+					],
+					"description": "Performed maintenance and added new features",
+					"role": "Lead Developer",
+					"technologies": "Android SDK, C#, Protobuf, Samsung Chord, Java"
+				},
+				{
+					"name": "DemoLoop",
+					"highlights": ["Designed and built an app for the purpose of demonstrating videos of flagship phone features",
+						"Technologies: Android SDK"
+					],
+					"description": "Designed and built an app for the purpose of demonstrating videos of flagship phone features",
+					"role": "Lead Developer",
+					"technologies": "Android SDK"
+				},
+				{
+					"name": "Samsung Device Configuration Tool",
+					"highlights": ["Allow communication between PC and several Android devices using usb, wifi and bluetooth communication",
+						"Uses Android Device Administration and Samsung MDM framework to manage devices",
+						"http://www.samsung.com/global/business/mobile/solution/others/device-configuration-tool",
+						"Technologies: Android SDK, JNI, Java, Samsung MDM library"
+					],
+					"description": "Allow communication between PC and several Android devices using usb, wifi and bluetooth communication\nUses Android Device Administration and Samsung MDM framework to manage devices",
+					"role": "Lead Developer",
+					"technologies": "Android SDK, JNI, Java, Samsung MDM library"
+				}
+			]
+		},
+		{
+			"company": "Samsung Electronics Philippines Corporation",
+			"position": "Senior Software Developer",
+			"website": "http://www.samsung.com/ph/home/",
+			"startDate": "2012-08-28",
+			"endDate": "2012-10-05",
+			"summary": "Underwent training in South Korea for the Software Training Course\nConducted brown bag sessions about Design Patterns and Unit Testing",
+			"highlights": ["Underwent training in South Korea for the Software Training Course",
+				"Conducted brown bag sessions about Design Patterns and Unit Testing"
+			],
+			"projects": []
+		},
+		{
+			"company": "Mobile Travel Technologies",
+			"position": "Software Developer",
+			"website": "http://mttnow.com/",
+			"startDate": "2011-04-04",
+			"endDate": "2012-08-27",
+			"summary": "Setup automated build archiving and deployment of Android and iOS apps\nResearched usage of Optical Character Recognition as an alternative method of input for passport details in mobile applications",
+			"highlights": ["Setup automated build archiving and deployment of Android and iOS apps",
+				"Researched usage of Optical Character Recognition as an alternative method of input for passport details in mobile applications"
+			],
+			"projects": [{
+					"name": "Transavia Android App",
+					"highlights": ["Initially worked on the Transavia Android App with tablet support in mind",
+						"https://play.google.com/store/apps/details?id=com.mttnow.droid.transavia",
+						"Technologies: Android SDK, Apache Thrift"
+					],
+					"description": "Initially worked on the Transavia Android App with tablet support in mind\nhttps://play.google.com/store/apps/details?id=com.mttnow.droid.transavia",
+					"role": "Developer",
+					"technologies": "Android SDK, Apache Thrift"
+				},
+				{
+					"name": "JetStar Mobile Website",
+					"highlights": ["Worked on the website by fixing some bugs",
+						"http://mobile.jetstar.com/s/",
+						"Technologies: Spring MVC, Apache Ant, Apache Ivy, Liquibase"
+					],
+					"description": "Worked on the website by fixing some bugs\nhttp://mobile.jetstar.com/s/",
+					"role": "Developer",
+					"technologies": "Spring MVC, Apache Ant, Apache Ivy, Liquibase"
+				},
+				{
+					"name": "easyJet Mobile Website",
+					"highlights": ["Built the website based on easyJet Android app",
+						"http://m.easyjet.com/m2p-ej/s/",
+						"Technologies: Spring MVC, Apache Ant, Apache Ivy, Liquibase"
+					],
+					"description": "Built the website based on easyJet Android app\nhttp://m.easyjet.com/m2p-ej/s/",
+					"role": "Developer",
+					"technologies": "Spring MVC, Apache Ant, Apache Ivy, Liquibase"
+				},
+				{
+					"name": "easyJet Android App",
+					"highlights": ["Maintained the sourcecode while adding several new features",
+						"https://play.google.com/store/apps/details?id=com.mttnow.droid.easyjet&hl=en",
+						"Processed thousands of transactions every month",
+						"Technologies: Android SDK, Apache Thrift"
+					],
+					"description": "Maintained the sourcecode while adding several new features\nhttps://play.google.com/store/apps/details?id=com.mttnow.droid.easyjet&hl=en \nProcessed thousands of transactions every month",
+					"role": "Developer",
+					"technologies": "Android SDK, Apache Thrift"
+				},
+				{
+					"name": "AirAsia BlackBerry App",
+					"highlights": ["Maintained the sourcecode while adding several new features",
+						"Processed thousands of transactions every month",
+						"Technologies: BlackBerry"
+					],
+					"description": "Maintained the sourcecode while adding several new features\nProcessed thousands of transactions every month",
+					"role": "Developer",
+					"technologies": "BlackBerry"
+				},
+				{
+					"name": "AirAsia Android App",
+					"highlights": ["Built the app from the ground up",
+						"Became the No.1 Travel App in Malaysia",
+						"Processed thousands of transactions every month",
+						"Technologies: Android SDK"
+					],
+					"description": "Built the app from the ground up\nBecame the No.1 Travel App in Malaysia\nProcessed thousands of transactions every month",
+					"role": "Solo Developer",
+					"technologies": "Android SDK"
+				},
+				{
+					"name": "AirAsia Mobile Website",
+					"highlights": ["Maintained the sourcecode while adding several new features",
+						"Processed thousands of transactions every month",
+						"Technologies: Struts, Hibernate"
+					],
+					"description": "Maintained the sourcecode while adding several new features\nProcessed thousands of transactions every month",
+					"role": "Developer",
+					"technologies": "Struts, Hibernate"
+				}
+			]
+		},
+		{
+			"company": "Personal",
+			"position": "",
+			"website": "",
+			"startDate": "2008-03-28",
+			"endDate": "2010-12-31",
+			"summary": "Experiments, Fun, Etc",
+			"highlights": [],
+			"projects": [{
+					"name": "Prototype solution for sending mass sms from a desktop pc",
+					"highlights": ["Implemented wireless communication between PC and Android devices",
+						"Technologies: Java, Android, Kryonet"
+					],
+					"description": "Implemented wireless communication between PC and Android devices",
+					"role": "Solo Developer",
+					"technologies": "Java, Android, Kryonet"
+				},
+				{
+					"name": "Prototype notification forwarder",
+					"highlights": ["Sms-triggered email notification using Android device as server",
+						"Technologies: Android, Robolectric"
+					],
+					"description": "Sms-triggered email notification using Android device as server",
+					"role": "Solo Developer",
+					"technologies": "Android, Robolectric"
+				},
+				{
+					"name": "4 Pics 1 Word Automated Solver",
+					"highlights": ["Built a bot that solves 4 Pics 1 Word problems",
+						"Technologies: Android UI Automator"
+					],
+					"description": "Built a bot that solves 4 Pics 1 Word problems",
+					"role": "Solo Developer",
+					"technologies": "Android UI Automator"
+				},
+				{
+					"name": "Report Generator for Nurse and Nutritionist KPI in CakePHP",
+					"highlights": ["Created RESTful services for accepting input and generating output in multiple formats such as XML, JSON, CSV",
+						"Generated Excel reports using PEAR libraries",
+						"Technologies: CakePHP, PEAR, MySQL, SVN"
+					],
+					"description": "Created RESTful services for accepting input and generating output in multiple formats such as XML, JSON, CSV\nGenerated Excel reports using PEAR libraries",
+					"role": "Solo Developer",
+					"technologies": "CakePHP, PEAR, MySQL, SVN"
+				},
+				{
+					"name": "Digital Labs Search Visualization Website",
+					"highlights": ["Built the site such that it was configurable by the client through XML configurations",
+						"Created code that generated and stored images",
+						"http://digitallab.com.ph/",
+						"Integrated site with Facebook and Facebook Connect",
+						"Technologies: ActionScript, XML, PHP, Javascript"
+					],
+					"description": "Built the site such that it was configurable by the client through XML configurations\nCreated code that generated and stored images\nhttp://digitallab.com.ph/ \nIntegrated site with Facebook and Facebook Connect",
+					"role": "Solo Developer",
+					"technologies": "ActionScript, XML, PHP, Javascript"
+				},
+				{
+					"name": "Salary Calculator App for Android Phone",
+					"highlights": ["Researched Philhealth, SSS, and Philippine deduction calculations",
+						"Applied Test Driven Development (TDD)",
+						"Technologies: Java, Android SDK, JUnit, SVN"
+					],
+					"description": "Researched Philhealth, SSS, and Philippine deduction calculations\nApplied Test Driven Development (TDD)",
+					"role": "Solo Developer",
+					"technologies": "Java, Android SDK, Junit, SVN"
+				},
+				{
+					"name": "Cubeoban Clone for Android Phone",
+					"highlights": ["Technologies: Java, Android SDK, Junit, Python, SVN"],
+					"description": "Classic game ported to Android",
+					"role": "Solo Developer",
+					"technologies": "Java, Android SDK, Junit, Python, SVN"
+				},
+				{
+					"name": "Color Contrast Generator using Genetic Programming",
+					"highlights": ["Researched algorithms for calculating and scoring color contrast",
+						"Converted code from PHP to Java",
+						"Created unit tests for each algorithm",
+						"Technologies: Java, Maven, JUnit, PHP, jQuery"
+					],
+					"description": "Researched algorithms for calculating and scoring color contrast\nConverted code from PHP to Java",
+					"role": "Solo Developer",
+					"technologies": "Java, Maven, JUnit, PHP, jQuery"
+				},
+				{
+					"name": "Weight Recording Website",
+					"highlights": ["Used flash based graphs to show user's progress",
+						"Created tests for each use case",
+						"Technologies: CakePHP, MySQL, SimpleTest, OpenFlashChart"
+					],
+					"description": "Used flash based graphs to show user's progress\nCreated tests for each use case",
+					"role": "Solo Developer",
+					"technologies": "CakePHP, MySQL, SimpleTest, OpenFlashChart"
+				}
+			]
+		}
+	],
+	"certification": []
+}
