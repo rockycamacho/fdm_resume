@@ -85,6 +85,9 @@
 					"Implemented and maintained various user features",
 					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, Priority Queue, JUnit"
 				],
+				"startDate": "2016",
+				"endDate": "Present",
+				"months": "(10 months)",
 				"description": "Architectured redesign\nImplemented offline\nImplemented and maintained various user features",
 				"role": "Lead Developer",
 				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, Priority Queue, JUnit"
@@ -94,6 +97,9 @@
 					"Implemented and maintained various features",
 					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
 				],
+				"startDate": "2016",
+				"endDate": "Present",
+				"months": "(9 months)",
 				"description": "Architectured redesign\nImplemented offline\nImplemented and maintained various features",
 				"role": "Solo Developer",
 				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
@@ -103,6 +109,9 @@
 					"Implemented API tests",
 					"Technologies: PHP, Laravel, JWT, PHPUnit"
 				],
+				"startDate": "2016",
+				"endDate": "Present",
+				"months": "(10 months)",
 				"description": "Architectured API\nImplemented API tests",
 				"role": "Original Developer",
 				"technologies": "PHP, Laravel, JWT, PHPUnit"
@@ -111,6 +120,9 @@
 				"highlights": ["Designed and implemented initial architecture",
 					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
 				],
+				"startDate": "2016",
+				"endDate": "2016",
+				"months": "(4 months)",
 				"description": "Implemented and maintained various features",
 				"role": "Developer",
 				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, OneSignal, Customer.io, MixPanel"
@@ -120,6 +132,9 @@
 					"Performed code reviews",
 					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
 				],
+				"startDate": "2016",
+				"endDate": "Present",
+				"months": "(9 months)",
 				"description": "Designed and implemented architecture\nPerformed code reviews",
 				"role": "Lead Developer",
 				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
@@ -129,6 +144,10 @@
 					"Performed code reviews",
 					"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
 				],
+				
+				"startDate": "2016",
+				"endDate": "Present",
+				"months": "(9 months)",
 				"description": "Designed and implemented architecture\nPerformed code reviews",
 				"role": "Lead Developer",
 				"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, Espresso, JUnit, Firebase"
@@ -151,6 +170,9 @@
 						"Implemented a build flavor that connects to a mock rest server",
 						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, Espresso, MockingJay Server, Laravel, PHPUnit, Stripe"
 					],
+					"startDate": "2015",
+					"endDate": "2016",
+					"months": "(4 months)",
 					"description": "Developed both Android and PHP server components\nImplemented tests for most business logic\nImplemented tests for ui\nImplemented a build flavor that connects to a mock rest server",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, Espresso, MockingJay Server, Laravel, PHPUnit, Stripe"
@@ -161,6 +183,9 @@
 						"Implemented tests for most business logic",
 						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, MVP, Google App Invites"
 					],
+					"startDate": "2016",
+					"endDate": "2016",
+					"months": "(4 months)",
 					"description": "Implemented Google App Invites for sharing the application directly to contacts and friends\nImplemented tests for most business logic",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, Robolectric, MVP, Google App Invites"
@@ -171,6 +196,9 @@
 						"Implemented App Deep Linking for Change Password and Screen Redirects via GCM",
 						"Technologies: RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, AltBeacon, Facebook Rebound, Robolectric, Stripe, GCM"
 					],
+					"startDate": "2015",
+					"endDate": "2016",
+					"months": "(5 months)",
 					"description": "Implemented tests for most business logic\nImplemented App Deep Linking for Change Password and Screen Redirects via GCM",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Retrofit2, Dagger2, LoganSquare, AltBeacon, Facebook Rebound, Robolectric, Stripe, GCM"
@@ -181,6 +209,9 @@
 						"https://play.google.com/store/apps/details?id=com.freshmethodit.readytask",
 						"Technologies: RxJava, RxAndroid, Retrofit, Dagger, CouchBase Lite, Laravel, MySQL"
 					],
+					"startDate": "2015",
+					"endDate": "2016",
+					"months": "(4 months)",
 					"description": "Developed both Android and PHP server components",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Retrofit, Dagger, CouchBase Lite, Laravel, MySQL"
@@ -190,6 +221,9 @@
 					"highlights": ["Added additional functionality and analytics",
 						"https://play.google.com/store/apps/details?id=com.jet2.travelapp"
 					],
+					"startDate": "2016",
+					"endDate": "2016",
+					"months": "(3 months)",
 					"description": "Added additional functionality and analytics\nhttps://play.google.com/store/apps/details?id=com.jet2.travelapp",
 					"role": "Solo Developer",
 					"technologies": "Android SDK"
@@ -199,6 +233,9 @@
 					"highlights": ["Implemented classifiers",
 						"Technologies: ElasticSearch, Square Tape, MySQL, ABBYY OCR"
 					],
+					"startDate": "2015",
+					"endDate": "2015",
+					"months": "(3 months)",
 					"description": "Implemented classifiers",
 					"role": "Solo Developer",
 					"technologies": "ElasticSearch, Square Tape, MySQL, ABBYY OCR"
@@ -209,6 +246,9 @@
 						"https://play.google.com/store/apps/details?id=com.coapperative.kupon2go.app",
 						"Technologies: Square Tape, RxJava, Zxing Barcode Reader, Retrofit, Dagger, GCM"
 					],
+					"startDate": "2015",
+					"endDate": "2016",
+					"months": "(15 months)",
 					"description": "Made builds configurable such that data managers can be set to return mock data\nhttps://play.google.com/store/apps/details?id=com.coapperative.kupon2go.app",
 					"role": "Solo Developer",
 					"technologies": "Square Tape, RxJava, Zxing Barcode Reader, Retrofit, Dagger, GCM"
@@ -239,6 +279,9 @@
 					"highlights": ["https://play.google.com/store/apps/details?id=com.monychanger.app",
 						"Technologies: RxJava, RxAndroid, Dagger, Retrofit"
 					],
+					"startDate": "2014",
+					"endDate": "2015",
+					"months": "(14 months)",
 					"description": "Allowed users to view nearby moneychangers and their rates\nhttps://play.google.com/store/apps/details?id=com.monychanger.app",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Dagger, Retrofit"
@@ -248,6 +291,9 @@
 					"highlights": ["https://github.com/rockycamacho/usbong-builder",
 						"Technologies: RxJava, RxAndroid, Dagger"
 					],
+					"startDate": "2013",
+					"endDate": "2013",
+					"months": "(3 months)",
 					"description": "Allowed students, non-developers to create their own stories, apps using Usbong\nhttps://github.com/rockycamacho/usbong-builder",
 					"role": "Solo Developer",
 					"technologies": "RxJava, RxAndroid, Dagger"
@@ -270,6 +316,9 @@
 					"highlights": ["Performed maintenance and added new features",
 						"Technologies: Android SDK, C#, Protobuf, Samsung Chord, Java"
 					],
+					"startDate": "2013",
+					"endDate": "2014",
+					"months": "(8 months)",
 					"description": "Performed maintenance and added new features",
 					"role": "Lead Developer",
 					"technologies": "Android SDK, C#, Protobuf, Samsung Chord, Java"
@@ -279,6 +328,9 @@
 					"highlights": ["Designed and built an app for the purpose of demonstrating videos of flagship phone features",
 						"Technologies: Android SDK"
 					],
+					"startDate": "2013",
+					"endDate": "2013",
+					"months": "(3 months)",
 					"description": "Designed and built an app for the purpose of demonstrating videos of flagship phone features",
 					"role": "Lead Developer",
 					"technologies": "Android SDK"
@@ -290,6 +342,9 @@
 						"http://www.samsung.com/global/business/mobile/solution/others/device-configuration-tool",
 						"Technologies: Android SDK, JNI, Java, Samsung MDM library"
 					],
+					"startDate": "2013",
+					"endDate": "2014",
+					"months": "(8 months)",
 					"description": "Allow communication between PC and several Android devices using usb, wifi and bluetooth communication\nUses Android Device Administration and Samsung MDM framework to manage devices",
 					"role": "Lead Developer",
 					"technologies": "Android SDK, JNI, Java, Samsung MDM library"
@@ -323,7 +378,9 @@
 					"highlights": ["Initially worked on the Transavia Android App with tablet support in mind",
 						"https://play.google.com/store/apps/details?id=com.mttnow.droid.transavia",
 						"Technologies: Android SDK, Apache Thrift"
-					],
+					],					
+					"startDate": "2012",
+					"months": "(6 months)",
 					"description": "Initially worked on the Transavia Android App with tablet support in mind\nhttps://play.google.com/store/apps/details?id=com.mttnow.droid.transavia",
 					"role": "Developer",
 					"technologies": "Android SDK, Apache Thrift"
@@ -334,6 +391,8 @@
 						"http://mobile.jetstar.com/s/",
 						"Technologies: Spring MVC, Apache Ant, Apache Ivy, Liquibase"
 					],
+					"startDate": "2012",
+					"months": "(3 months)",
 					"description": "Worked on the website by fixing some bugs\nhttp://mobile.jetstar.com/s/",
 					"role": "Developer",
 					"technologies": "Spring MVC, Apache Ant, Apache Ivy, Liquibase"
@@ -344,6 +403,8 @@
 						"http://m.easyjet.com/m2p-ej/s/",
 						"Technologies: Spring MVC, Apache Ant, Apache Ivy, Liquibase"
 					],
+					"startDate": "2012",
+					"months": "(3 months)",
 					"description": "Built the website based on easyJet Android app\nhttp://m.easyjet.com/m2p-ej/s/",
 					"role": "Developer",
 					"technologies": "Spring MVC, Apache Ant, Apache Ivy, Liquibase"
@@ -355,6 +416,8 @@
 						"Processed thousands of transactions every month",
 						"Technologies: Android SDK, Apache Thrift"
 					],
+					"startDate": "2012",
+					"months": "(5 months)",
 					"description": "Maintained the sourcecode while adding several new features\nhttps://play.google.com/store/apps/details?id=com.mttnow.droid.easyjet&hl=en \nProcessed thousands of transactions every month",
 					"role": "Developer",
 					"technologies": "Android SDK, Apache Thrift"
@@ -365,6 +428,8 @@
 						"Processed thousands of transactions every month",
 						"Technologies: BlackBerry"
 					],
+					"startDate": "2012",
+					"months": "(1 months)",
 					"description": "Maintained the sourcecode while adding several new features\nProcessed thousands of transactions every month",
 					"role": "Developer",
 					"technologies": "BlackBerry"
@@ -376,6 +441,8 @@
 						"Processed thousands of transactions every month",
 						"Technologies: Android SDK"
 					],
+					"startDate": "2011",
+					"months": "(18 months)",
 					"description": "Built the app from the ground up\nBecame the No.1 Travel App in Malaysia\nProcessed thousands of transactions every month",
 					"role": "Solo Developer",
 					"technologies": "Android SDK"
@@ -386,6 +453,8 @@
 						"Processed thousands of transactions every month",
 						"Technologies: Struts, Hibernate"
 					],
+					"startDate": "2011",
+					"months": "(10 months)",
 					"description": "Maintained the sourcecode while adding several new features\nProcessed thousands of transactions every month",
 					"role": "Developer",
 					"technologies": "Struts, Hibernate"
@@ -405,6 +474,8 @@
 					"highlights": ["Implemented wireless communication between PC and Android devices",
 						"Technologies: Java, Android, Kryonet"
 					],
+					"startDate": "2015",
+					"months": "(1 months)",
 					"description": "Implemented wireless communication between PC and Android devices",
 					"role": "Solo Developer",
 					"technologies": "Java, Android, Kryonet"
@@ -414,6 +485,8 @@
 					"highlights": ["Sms-triggered email notification using Android device as server",
 						"Technologies: Android, Robolectric"
 					],
+					"startDate": "2014",
+					"months": "(1 months)",
 					"description": "Sms-triggered email notification using Android device as server",
 					"role": "Solo Developer",
 					"technologies": "Android, Robolectric"
@@ -423,6 +496,8 @@
 					"highlights": ["Built a bot that solves 4 Pics 1 Word problems",
 						"Technologies: Android UI Automator"
 					],
+					"startDate": "2013",
+					"months": "(1 months)",
 					"description": "Built a bot that solves 4 Pics 1 Word problems",
 					"role": "Solo Developer",
 					"technologies": "Android UI Automator"
@@ -433,6 +508,8 @@
 						"Applied Test Driven Development (TDD)",
 						"Technologies: Java, Android SDK, JUnit, SVN"
 					],
+					"startDate": "2013",
+					"months": "(2 months)",
 					"description": "Researched Philhealth, SSS, and Philippine deduction calculations\nApplied Test Driven Development (TDD)",
 					"role": "Solo Developer",
 					"technologies": "Java, Android SDK, Junit, SVN"
@@ -440,6 +517,8 @@
 				{
 					"name": "Cubeoban Clone for Android Phone",
 					"highlights": ["Technologies: Java, Android SDK, Junit, Python, SVN"],
+					"startDate": "2012",
+					"months": "(1 months)",
 					"description": "Classic game ported to Android",
 					"role": "Solo Developer",
 					"technologies": "Java, Android SDK, Junit, Python, SVN"
@@ -451,6 +530,8 @@
 						"Created unit tests for each algorithm",
 						"Technologies: Java, Maven, JUnit, PHP, jQuery"
 					],
+					"startDate": "2011",
+					"months": "(1 months)",
 					"description": "Researched algorithms for calculating and scoring color contrast\nConverted code from PHP to Java",
 					"role": "Solo Developer",
 					"technologies": "Java, Maven, JUnit, PHP, jQuery"
