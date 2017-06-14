@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Rocky Camacho",
 		"label": "Android Developer",
-		"picture": "",
+		"picture": "https://avatars0.githubusercontent.com/u/112808?v=3&s=460",
 		"email": "rocky.camacho@flightdigitalmedia.com",
 		"phone": "+639052111443"
 	},
@@ -54,139 +54,20 @@
 	],
 	"references": [],
 	"skills": [{
-			"category": "Android Development",
+			"category": "Core Competencies",
 			"technologies": [{
 					"name": "Java",
 					"number_of_years": 10
-				}, {
-					"name": "Android SDK",
-					"number_of_years": 7
-				},
+				}, 
 				{
-					"name": "App Deep Linking",
-					"number_of_years": 2
-				}
-			]
-		},
-		{
-			"category": "Android Testing",
-			"technologies": [{
-					"name": "JUnit",
+					"name": "Testing",
 					"number_of_years": 8
 				},
 				{
-					"name": "Robolectric",
-					"number_of_years": 2
-				},
-				{
-					"name": "Espresso",
-					"number_of_years": 3
-				},
-				{
-					"name": "UI Automator",
-					"number_of_years": 1
-				},
-				{
-					"name": "Page Object Pattern",
-					"number_of_years": 1
-				}
-			]
-		},
-		{
-			"category": "Developement Tools",
-			"technologies": [{
-					"name": "Android Studio",
-					"number_of_years": 3
-				},
-				{
-					"name": "JIRA",
-					"number_of_years": 4
-				},
-				{
-					"name": "Confluence",
-					"number_of_years": 3
-				},
-				{
-					"name": "Jenkins",
-					"number_of_years": 4
-				}
-			]
-		},
-		{
-			"category": "Basic Fundamentals",
-			"technologies": [{
-					"name": "Data Structures",
-					"number_of_years": 5
-				},
-				{
-					"name": "Algorithms",
-					"number_of_years": 5
-				},
-				{
-					"name": "Design Patterns",
-					"number_of_years": 5
-				},
-				{
-					"name": "Reactive Extensions",
-					"number_of_years": 3
-				}
-			]
-		},
-		{
-			"category": "Web Development",
-			"technologies": [{
-					"name": "HTML",
-					"number_of_years": 5
-				},
-				{
-					"name": "PHP",
+					"name": "Android SDK",
 					"number_of_years": 7
-				},
-				{
-					"name": "CSS",
-					"number_of_years": 3
-				},
-				{
-					"name": "Javascript",
-					"number_of_years": 3
-				},
-				{
-					"name": "MySQL",
-					"number_of_years": 6
-				},
-				{
-					"name": "REST",
-					"number_of_years": 9
 				}
 			]
-		},
-		{
-			"category": "Version Control",
-			"technologies": [{
-					"name": "SVN",
-					"number_of_years": 5
-				}, {
-					"name": "Git",
-					"number_of_years": 3
-				},
-				{
-					"name": "Mercurial",
-					"number_of_years": 3
-				}
-			]
-		},
-		{
-			"category": "Operating System",
-			"technologies": [{
-				"name": "Windows",
-				"number_of_years": 10
-			}, {
-				"name": "Linux",
-				"number_of_years": 1
-			}, {
-				"name": "OSX",
-				"number_of_years": 1
-			}]
 		}
 	],
 	"work": [{
@@ -547,28 +428,6 @@
 					"technologies": "Android UI Automator"
 				},
 				{
-					"name": "Report Generator for Nurse and Nutritionist KPI in CakePHP",
-					"highlights": ["Created RESTful services for accepting input and generating output in multiple formats such as XML, JSON, CSV",
-						"Generated Excel reports using PEAR libraries",
-						"Technologies: CakePHP, PEAR, MySQL, SVN"
-					],
-					"description": "Created RESTful services for accepting input and generating output in multiple formats such as XML, JSON, CSV\nGenerated Excel reports using PEAR libraries",
-					"role": "Solo Developer",
-					"technologies": "CakePHP, PEAR, MySQL, SVN"
-				},
-				{
-					"name": "Digital Labs Search Visualization Website",
-					"highlights": ["Built the site such that it was configurable by the client through XML configurations",
-						"Created code that generated and stored images",
-						"http://digitallab.com.ph/",
-						"Integrated site with Facebook and Facebook Connect",
-						"Technologies: ActionScript, XML, PHP, Javascript"
-					],
-					"description": "Built the site such that it was configurable by the client through XML configurations\nCreated code that generated and stored images\nhttp://digitallab.com.ph/ \nIntegrated site with Facebook and Facebook Connect",
-					"role": "Solo Developer",
-					"technologies": "ActionScript, XML, PHP, Javascript"
-				},
-				{
 					"name": "Salary Calculator App for Android Phone",
 					"highlights": ["Researched Philhealth, SSS, and Philippine deduction calculations",
 						"Applied Test Driven Development (TDD)",
@@ -595,16 +454,6 @@
 					"description": "Researched algorithms for calculating and scoring color contrast\nConverted code from PHP to Java",
 					"role": "Solo Developer",
 					"technologies": "Java, Maven, JUnit, PHP, jQuery"
-				},
-				{
-					"name": "Weight Recording Website",
-					"highlights": ["Used flash based graphs to show user's progress",
-						"Created tests for each use case",
-						"Technologies: CakePHP, MySQL, SimpleTest, OpenFlashChart"
-					],
-					"description": "Used flash based graphs to show user's progress\nCreated tests for each use case",
-					"role": "Solo Developer",
-					"technologies": "CakePHP, MySQL, SimpleTest, OpenFlashChart"
 				}
 			]
 		}
